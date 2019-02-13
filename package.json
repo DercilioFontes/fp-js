@@ -1,0 +1,13 @@
+{
+  "name": "dafdev",
+  "version": "1.0.0",
+  "description": "functional programming practices",
+  "main": "index.js",
+  "repository": "https://github.com/DercilioFontes/fp-js",
+  "author": "DercilioFontes <derciliofontes@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^5.13.0"
+  }
+}
